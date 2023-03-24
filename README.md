@@ -19,3 +19,7 @@ Made with ❤️ by Kale
 
 
 ### ©️2019 Run Buddy, Inc 
+
+
+## Testing
+Updating readme to test git configuration
